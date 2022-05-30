@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SergSel2006
-- 👀 I’m interested in 
-- 🌱 I’m currently learning in School, also I am learning Python 
-- Discord: sorry, but just no
+- Working by myself or in Pumpixel
+- Learned Python and C# by self
+- Discord: ✔𝕊𝕖𝕣𝕘_𝕤𝕖𝕝✔#5484
 
 <!---
 SergSel2006/SergSel2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
