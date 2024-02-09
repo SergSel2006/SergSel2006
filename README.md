@@ -2,4 +2,4 @@
 - Working by myself or in Pumpixel
 - Learned Python and C# by self
 - Discord: SergSel2006
-- Find me in the Fediverse <a rel="me" href="https://rustodon.hopto.org/@SergSel2006">@SergSel2006@rustodon.hopto.org</a>
+- Find me in the Fediverse <link rel="me" href="https://rustodon.hopto.org/@SergSel2006">@SergSel2006@rustodon.hopto.org</link>
