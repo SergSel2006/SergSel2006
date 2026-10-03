@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @SergSel2006
-- Working by myself or in Pumpixel
-- Learned Python and C# by self
-- Discord: SergSel2006
-- Find me in the Fediverse <a rel="me" href="https://rustodon.hopto.org/@SergSel2006">Mastodon</a>
+- Usually work with Python or Bash.
+- I use NixOS btw
+- Bro have you checked my site? Go look at it!
+
+http://uzlgcpfyk3tg2sfvd2nx2dm7xmw7aixf7liv2ztvdg33ompqzzua.b32.i2p/
+http://ewjajblkxqrirqz3r7qjqhehcfnk26grvawrojjywrxvd562mvaq67ad.onion/
