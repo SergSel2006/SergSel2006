@@ -2,5 +2,5 @@
 - Usually work with Python or Bash.
 - I use NixOS btw
 - Bro have you checked my site? Go look at it!
-  - <a href=http://uzlgcpfyk3tg2sfvd2nx2dm7xmw7aixf7liv2ztvdg33ompqzzua.b32.i2p rel="me">I2P B32</a>
-  - <a href=http://ewjajblkxqrirqz3r7qjqhehcfnk26grvawrojjywrxvd562mvaq67ad.onion rel="me">Tor</a>
+  - <a href=http://uzlgcpfyk3tg2sfvd2nx2dm7xmw7aixf7liv2ztvdg33ompqzzua.b32.i2p rel=me>I2P B32</a>
+  - <a href=http://ewjajblkxqrirqz3r7qjqhehcfnk26grvawrojjywrxvd562mvaq67ad.onion rel=me>Tor</a>
